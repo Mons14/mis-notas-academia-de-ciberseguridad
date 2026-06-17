@@ -4,8 +4,9 @@
 
 ## 🗺️ Plan de Estudios y Progreso
 ### 🌐  Redes y Ciberseguridad
-- [ ] Teoria
-- [ ] Práctica
+#### 🌐 Redes y Ciberseguridad
+- [ ] [Teoría](./anio-1/01-redes-y-ciberseguridad/notas/README.md)
+- [ ] [Práctica](./anio-1/01-redes-y-ciberseguridad/ejercicios/README.md)
       
 ####  Sistemas Operativos
 - [ ] Evolución de Linux y Código Abierto
