@@ -3,11 +3,9 @@
 ¡Bienvenido a mi repositorio de aprendizaje! Aquí iré documentando mis apuntes, laboratorios, comandos y scripts a lo largo de mi formación en ciberseguridad.
 
 ## 🗺️ Plan de Estudios y Progreso
-### 🌐 ### 🌐 [Redes y Ciberseguridad](./anio-1/01-redes-y-ciberseguridad/notas/README.md)
-- [ ] Modelo OSI
-- [ ] Modelo TCP/IP
-- [ ] Firewalls
-- [ ] Protocolos de seguridad
+### 🌐  Redes y Ciberseguridad
+- [ ] Teoria
+- [ ] Práctica
       
 ####  Sistemas Operativos
 - [ ] Evolución de Linux y Código Abierto
