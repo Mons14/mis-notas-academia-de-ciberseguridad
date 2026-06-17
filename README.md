@@ -8,15 +8,15 @@
 - [ ] [Teoría](./anio-1/01-redes-y-ciberseguridad/notas/README.md)
 - [ ] [Práctica](./anio-1/01-redes-y-ciberseguridad/ejercicios/README.md)
       
-####  Sistemas Operativos
+#### 🐧 Sistemas Operativos
+- [ ] [Teoría](./anio-1/02-sistemas-operativos/notes/README.md)
+- [ ] [Práctica](./anio-1/02-sistemas-operativos/ejercicios/README.md)
+
+####  📜 Normativas de Seguridad
 - [ ] Teoria
 - [ ] Práctica
 
-####  Normativas de Seguridad
-- [ ] Teoria
-- [ ] Práctica
-
-### Programación para Ciberseguridad
+### 🐍 Programación para Ciberseguridad
 - [ ] Teoria
 - [ ] Práctica
 
