@@ -9,26 +9,21 @@
 - [ ] [Práctica](./anio-1/01-redes-y-ciberseguridad/ejercicios/README.md)
       
 ####  Sistemas Operativos
-- [ ] Evolución de Linux y Código Abierto
-- [ ] Trabajo en la terminal de Linux
-- [ ] Administración de usuarios y permisos
+- [ ] Teoria
+- [ ] Práctica
 
 ####  Normativas de Seguridad
-- [ ] ISO / IEC 27001
-- [ ] SGSI en Ciberseguridad
-- [ ] Políticas de Ciberseguridad
+- [ ] Teoria
+- [ ] Práctica
 
 ### Programación para Ciberseguridad
-- [ ] Introducción a Python
-- [ ] DevOps SEC
-- [ ] Automatización de Ataques
+- [ ] Teoria
+- [ ] Práctica
 
 ### 🛠️ Hacking Ético N1
-- [ ] Introducción al Hacking Ético
-- [ ] Análisis de Vulnerabilidades y Malware
-- [ ] Escaneo de Redes
+- [ ] Teoria
+- [ ] Práctica
 
 ### 🔐 Hacking Ético N2
-- [ ] Ingeniería Social
-- [ ] IoT Hacking
-- [ ] Criptografía
+- [ ] Teoria
+- [ ] Práctica
